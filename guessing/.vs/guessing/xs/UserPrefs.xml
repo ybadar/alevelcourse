@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2ED63A8A-7D5A-4B45-9179-30034180FEB9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="guessing/Program.cs">
+    <Files>
+      <File FileName="guessing/Program.cs" Line="51" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="guessing" expanded="True">
+            <Node name="guessing" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.guessing FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/yusefbadar/Projects/guessing/guessing/bin/Debug/netcoreapp3.1/guessing.deps.json
+/Users/yusefbadar/Projects/guessing/guessing/bin/Debug/netcoreapp3.1/guessing.runtimeconfig.json
+/Users/yusefbadar/Projects/guessing/guessing/bin/Debug/netcoreapp3.1/guessing.runtimeconfig.dev.json
+/Users/yusefbadar/Projects/guessing/guessing/bin/Debug/netcoreapp3.1/guessing.dll
+/Users/yusefbadar/Projects/guessing/guessing/bin/Debug/netcoreapp3.1/guessing.pdb
+/Users/yusefbadar/Projects/guessing/guessing/obj/Debug/netcoreapp3.1/guessing.csproj.AssemblyReference.cache
+/Users/yusefbadar/Projects/guessing/guessing/obj/Debug/netcoreapp3.1/guessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusefbadar/Projects/guessing/guessing/obj/Debug/netcoreapp3.1/guessing.AssemblyInfoInputs.cache
+/Users/yusefbadar/Projects/guessing/guessing/obj/Debug/netcoreapp3.1/guessing.AssemblyInfo.cs
+/Users/yusefbadar/Projects/guessing/guessing/obj/Debug/netcoreapp3.1/guessing.csproj.CoreCompileInputs.cache
+/Users/yusefbadar/Projects/guessing/guessing/obj/Debug/netcoreapp3.1/guessing.dll
+/Users/yusefbadar/Projects/guessing/guessing/obj/Debug/netcoreapp3.1/guessing.pdb
+/Users/yusefbadar/Projects/guessing/guessing/obj/Debug/netcoreapp3.1/guessing.genruntimeconfig.cache
