@@ -6,7 +6,7 @@ namespace fileio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! and universe");
+            Console.WriteLine("Hello World!");
         }
     }
 }
