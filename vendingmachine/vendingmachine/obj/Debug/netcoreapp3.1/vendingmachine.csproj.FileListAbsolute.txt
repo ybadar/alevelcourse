@@ -1,0 +1,13 @@
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/bin/Debug/netcoreapp3.1/vendingmachine.deps.json
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/bin/Debug/netcoreapp3.1/vendingmachine.runtimeconfig.json
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/bin/Debug/netcoreapp3.1/vendingmachine.runtimeconfig.dev.json
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/bin/Debug/netcoreapp3.1/vendingmachine.dll
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/bin/Debug/netcoreapp3.1/vendingmachine.pdb
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/obj/Debug/netcoreapp3.1/vendingmachine.csproj.AssemblyReference.cache
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/obj/Debug/netcoreapp3.1/vendingmachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/obj/Debug/netcoreapp3.1/vendingmachine.AssemblyInfoInputs.cache
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/obj/Debug/netcoreapp3.1/vendingmachine.AssemblyInfo.cs
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/obj/Debug/netcoreapp3.1/vendingmachine.csproj.CoreCompileInputs.cache
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/obj/Debug/netcoreapp3.1/vendingmachine.dll
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/obj/Debug/netcoreapp3.1/vendingmachine.pdb
+/Users/yusefbadar/Projects/vendingmachine/vendingmachine/obj/Debug/netcoreapp3.1/vendingmachine.genruntimeconfig.cache
