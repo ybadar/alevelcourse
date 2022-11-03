@@ -1,0 +1,13 @@
+/Users/yusefbadar/Projects/carpetshop/carpetshop/bin/Debug/netcoreapp3.1/carpetshop.deps.json
+/Users/yusefbadar/Projects/carpetshop/carpetshop/bin/Debug/netcoreapp3.1/carpetshop.runtimeconfig.json
+/Users/yusefbadar/Projects/carpetshop/carpetshop/bin/Debug/netcoreapp3.1/carpetshop.runtimeconfig.dev.json
+/Users/yusefbadar/Projects/carpetshop/carpetshop/bin/Debug/netcoreapp3.1/carpetshop.dll
+/Users/yusefbadar/Projects/carpetshop/carpetshop/bin/Debug/netcoreapp3.1/carpetshop.pdb
+/Users/yusefbadar/Projects/carpetshop/carpetshop/obj/Debug/netcoreapp3.1/carpetshop.csproj.AssemblyReference.cache
+/Users/yusefbadar/Projects/carpetshop/carpetshop/obj/Debug/netcoreapp3.1/carpetshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusefbadar/Projects/carpetshop/carpetshop/obj/Debug/netcoreapp3.1/carpetshop.AssemblyInfoInputs.cache
+/Users/yusefbadar/Projects/carpetshop/carpetshop/obj/Debug/netcoreapp3.1/carpetshop.AssemblyInfo.cs
+/Users/yusefbadar/Projects/carpetshop/carpetshop/obj/Debug/netcoreapp3.1/carpetshop.csproj.CoreCompileInputs.cache
+/Users/yusefbadar/Projects/carpetshop/carpetshop/obj/Debug/netcoreapp3.1/carpetshop.dll
+/Users/yusefbadar/Projects/carpetshop/carpetshop/obj/Debug/netcoreapp3.1/carpetshop.pdb
+/Users/yusefbadar/Projects/carpetshop/carpetshop/obj/Debug/netcoreapp3.1/carpetshop.genruntimeconfig.cache

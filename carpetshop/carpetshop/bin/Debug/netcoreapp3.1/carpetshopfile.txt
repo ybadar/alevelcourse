@@ -1,0 +1,4 @@
+ORDER DATE : 03/11/2022
+Customer Name : yusef
+Carpet Type : WOOL in PINK
+Total Cost : 859.80
